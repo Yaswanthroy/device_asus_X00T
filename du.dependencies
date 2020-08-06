@@ -7,4 +7,10 @@
     "repository": "android_packages_resources_devicesettings",
     "target_path": "packages/resources/devicesettings"
   }
+  {
+    "repository":"kdrag0n/proton-clang",
+    "target_path":"prebuilts/clang/host/linux-x86/clang-proton",
+    "branch": "master",
+    "remote":"github"
+  }
 ]
